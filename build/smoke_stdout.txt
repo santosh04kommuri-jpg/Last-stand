@@ -1,0 +1,15 @@
+WARNING: FILEIO: [2D Stylized Adventure Game Asset Pack/2D Stylized Adventure Game Asset Pack/player attacks/enemy attack 6.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/1.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/2.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/3.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/4.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/5.png] Failed to open file
+WARNING: FILEIO: [assets/enemy_defeat/6.png] Failed to open file
+WARNING: FILEIO: [2D Stylized Adventure Game Asset Pack/2D Stylized Adventure Game Asset Pack/player attacks/player attack 6.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/1.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/2.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/3.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/4.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/5.png] Failed to open file
+WARNING: FILEIO: [assets/player_defeat/6.png] Failed to open file
+Smoke test finished: sky=OK ground=OK enemy=OK player=OK bar=OK ui=OK playerAtk=OK enemyAtk=OK defeat=MISSING edefeat=MISSING frames=120
